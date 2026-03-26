@@ -3,8 +3,8 @@
 ## Observation Report
 
 **Student Name  :** Srinandhini
-**Student ID    :** ____2310040045_______________________
-**Date Submitted:** ______26/3/26_____________________
+**Student ID    :** 2310040045
+**Date Submitted:** 26/3/26
 
 ---
 
