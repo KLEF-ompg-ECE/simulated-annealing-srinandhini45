@@ -179,7 +179,7 @@ def print_timetable(timetable):
 
 def save_plot(clash_log, temp_log, filename, title):
     os.makedirs("plots", exist_ok=True)
-    fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(9, 6), sharex=True)
+    fig, (ax1, ax2) = plt.subplots (2, 1, figsize=(9, 6), sharex=True)
     ax1.plot(clash_log, color="crimson", linewidth=1.5)
     ax1.set_ylabel("Best Clashes")
     ax1.set_title(f"SA Convergence - {title}")
